@@ -12,16 +12,16 @@
 I'm a full-stack web developer with experience in UI implementations with React and microservices with GraphQL and NodeJs (with Typescript). I currently work at VALTECH, where I am part of the Composable Commerce team. My tasks are to develop and participate in decision-making related to the roadmap of the product that we implement and understand the product of other teams with which we interact.
 
 <a href="https://github.com/lucasdellasala/tracklite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=tracklite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=tracklite&theme=transparent" />
 </a>
 <a href="https://github.com/lucasdellasala/kriptonita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=kriptonita" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=kriptonita&theme=transparent" />
 </a>
 <a href="https://github.com/lucasdellasala/ai-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=ai-agent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=ai-agent&theme=transparent" />
 </a>
 <a href="https://github.com/lucasdellasala/cronapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=cronapp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=cronapp&theme=transparent" />
 </a>
 <a href="https://github.com/lucasdellasala/coding-interview-backend-level-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=coding-interview-backend-level-3&theme=transparent" />
