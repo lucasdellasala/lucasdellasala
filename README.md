@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/lucasdellasala?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.lucasdellasala.com/)](https://www.lucasdellasala.com/)
 
-I'm a full-stack web developer with experience in UI implementations with React and microservices with GraphQL and NodeJs (with Typescript & Go). I currently work at VALTECH, where I am part of the Composable Commerce team. My tasks are to develop and participate in decision-making related to the roadmap of the product that we implement and understand the product of other teams with which we interact.
+I'm a full-stack web developer with experience in UI implementations with React and microservices with GraphQL, NodeJs (with Typescript) and Go. I currently work at VALTECH, where I am part of the Composable Commerce team. My tasks are to develop and participate in decision-making related to the roadmap of the product that we implement and understand the product of other teams with which we interact.
 
 <a href="https://github.com/lucasdellasala/tracklite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=tracklite&theme=transparent" />
