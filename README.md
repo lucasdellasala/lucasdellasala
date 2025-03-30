@@ -24,5 +24,5 @@ I'm a full-stack web developer with experience in UI implementations with React 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=cronapp" />
 </a>
 <a href="https://github.com/lucasdellasala/coding-interview-backend-level-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=coding-interview-backend-level-3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=coding-interview-backend-level-3&theme=transparent" />
 </a>
