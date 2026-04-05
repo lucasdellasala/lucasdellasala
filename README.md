@@ -8,20 +8,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/lucasdellasala?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.lucasdellasala.com/)](https://www.lucasdellasala.com/)
 
-I'm a full-stack web developer with experience in UI implementations with React and microservices with GraphQL, NodeJs (with Typescript) and Go. I currently work at VALTECH, where I am part of the Composable Commerce team. My tasks are to develop and participate in decision-making related to the roadmap of the product that we implement and understand the product of other teams with which we interact.
-
-<a href="https://github.com/lucasdellasala/tracklite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=tracklite&theme=transparent" />
-</a>
-<a href="https://github.com/lucasdellasala/kriptonita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=kriptonita&theme=transparent" />
-</a>
-<a href="https://github.com/lucasdellasala/ai-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=ai-agent&theme=transparent" />
-</a>
-<a href="https://github.com/lucasdellasala/cronapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=cronapp&theme=transparent" />
-</a>
-<a href="https://github.com/lucasdellasala/coding-interview-backend-level-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdellasala&repo=coding-interview-backend-level-3&theme=transparent" />
-</a>
+Full-stack engineer specializing in backend systems, microservices, and distributed architectures. Experienced with Node.js, TypeScript, Python, GraphQL, and AWS, consistently improving system reliability, performance, and developer workflows. Recent work includes leading technical implementation for composable commerce solutions and designing scalable BFF and API layers. Known for clear technical ownership, pragmatic decision making, and delivering software that does not fall apart in production.
