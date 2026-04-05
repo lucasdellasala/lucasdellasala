@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Lucas Della Sala (Vlady)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/55720621/244415025-e3707160-2f05-4d21-9f91-8301ff663fa5.png" width="230">
-<p><em>Software Engineer at <a href="https://www.valtech.com/es-ar">VALTECH
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dellasalalucas?label=Follow)](https://twitter.com/intent/follow?screen_name=dellasalalucas)
